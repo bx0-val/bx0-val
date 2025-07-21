@@ -34,10 +34,11 @@ These are the core technologies I'm focused on mastering.
 
 ### 📌 Pinned Projects
 
-*This space is reserved for the projects I'll be building along my journey. Stay tuned!*
 
+
+#### *[oplog - operations logging directly from terminal](github.com/bx0-val/oplog)*
 ---
 
 ### 🤝 Connect With Me
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/BRY-VAL/)
